@@ -1,6 +1,9 @@
 <?php
 	
-	echo "Hello World";
-	echo "How are you ?";
+	$x == 1;
+	$y == 2;
+	$z == $x + $y;
+	
+	echo $z;
 	
 ?>
